@@ -1,0 +1,5 @@
+#### All Terraform Metadata to be Avoided
+.terraform
+*.tfstate.backup
+*.tfstate
+*.out
